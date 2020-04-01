@@ -3,7 +3,7 @@
 Collection of data challenges on publicly available datasets.
 
 ## Index:
-1. NYC Yellow CAB trip aggregation (Public dataset)
+1. NYC Yellow CAB trip aggregation (Public dataset, inspired by: https://www.kaggle.com/tuomastik/black-yellow-nyc-taxi-trip-data-exploration)
 	* Data available at https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 2. Forecasting West Nile Virus (Kaggle competition)
 	* Data available at https://www.kaggle.com/c/predict-west-nile-virus
